@@ -1,0 +1,30 @@
+@startuml DrukmeterDecorator
+skinparam ClassAttributeIconSize 0
+
+Interface ISubject{
+    +Druk: double
+    +Max: double
+    +Eenheid: String
+    +Naam: String
+    +Register(o: IObserver):void
+}
+note left: IComponent
+
+class DrukKlasse{
+    -pascal: ISubject
+    +DrukKlasse(pascal: ISubject, factor:double, eenheid:string, naam:string)
+}
+note bottom: Deocrator
+
+class DrukPascal{
+    -observers: List<IObserver>
+    -Notify():void
+}
+note bottom: Component
+note top: Subject
+
+ISubject <|.. DrukPascal
+ISubject <|.. DrukKlasse
+DrukKlasse o-right- DrukPascal
+
+@enduml

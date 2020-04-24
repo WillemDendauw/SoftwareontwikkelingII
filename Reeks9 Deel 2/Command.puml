@@ -1,0 +1,38 @@
+@startuml Command
+skinparam ClassAttributeIconSize 0
+
+Abstract Class AdoubleKeyCommand {
+    +NumberKeys{get;} :int
+    +AdoubleKeyCommand(helper: Helper)
+    +execute(key: Key) : void
+}
+
+Class NoCommand{
+    -helper: Helper
+    +NumberKeys{get;}: int
+    +NoCommand(helper: Helper)
+    +Execute(key: Key): void
+}
+
+class FCommand{
+
+}
+
+class MCommand{
+
+}
+
+class BCommand{
+
+}
+
+class RCommand{
+
+}
+
+NoCommand <|-- AdoubleKeyCommand
+NoCommand <|-- RCommand
+AdoubleKeyCommand <|-- BCommand
+AdoubleKeyCommand <|-- MCommand
+AdoubleKeyCommand <|-- FCommand
+@enduml

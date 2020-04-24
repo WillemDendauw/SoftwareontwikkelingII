@@ -1,0 +1,55 @@
+@startuml Reeks3
+skinparam classAttributeIconSize 0
+
+interface IBlaadje {
+    +Val(richting: int)
+}
+note right: IFlyWeight
+
+class BlaadjesFactory{
+    -bladeren:dictionary<String,IObject>
+    +this[string]: IBlaadje
+    +Factory()
+    +maakBlad(type:string)
+}
+note left: FlyWeightFactory
+
+class Client{
+    -UnsharedState
+}
+note left: Client
+
+abstract class Blaadje{
+    +{abstract} Val(richting int)
+}
+note right: abstract ConcreteFlyWeight
+
+class Pluim{
+    +Pluim()
+    +Val(richting: int)
+}
+
+class GroenBlad{
+    +GroenBlad()
+    +Val(richting: int)
+}
+
+class GroenBlad2{
+    +GroenBlad2()
+    +Val(richting: int)
+}
+
+class RoodBlad{
+    +RoodBlad()
+    +Val(richting: int)
+}
+
+IBlaadje <|.. Pluim
+Blaadje <|-- GroenBlad
+Blaadje <|-- GroenBlad2
+Blaadje <|-- RoodBlad
+IBlaadje <|.. Blaadje
+IBlaadje "*"--o BlaadjesFactory : heeft een
+Client - BlaadjesFactory
+Client - IBlaadje
+@enduml

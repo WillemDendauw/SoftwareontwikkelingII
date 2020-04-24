@@ -1,0 +1,8 @@
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Bibliotheek (IComposite)\Bibliotheek\bin\Debug\Bibliotheek.exe.config
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Bibliotheek (IComposite)\Bibliotheek\bin\Debug\Bibliotheek.exe
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Bibliotheek (IComposite)\Bibliotheek\bin\Debug\Bibliotheek.pdb
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Bibliotheek (IComposite)\Bibliotheek\bin\Debug\Bibliotheek.dll
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Bibliotheek (IComposite)\Bibliotheek\obj\Debug\Bibliotheek.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Bibliotheek (IComposite)\Bibliotheek\obj\Debug\Bibliotheek.csproj.CopyComplete
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Bibliotheek (IComposite)\Bibliotheek\obj\Debug\Bibliotheek.exe
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Bibliotheek (IComposite)\Bibliotheek\obj\Debug\Bibliotheek.pdb

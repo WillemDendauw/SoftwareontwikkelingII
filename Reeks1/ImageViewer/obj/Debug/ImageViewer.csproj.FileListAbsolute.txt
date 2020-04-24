@@ -1,0 +1,28 @@
+C:\Users\Willem Dendauw\source\repos\Reeks1\ImageViewer\obj\Debug\ImageViewer.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\source\repos\Reeks1\ImageViewer\obj\Debug\MainWindow.g.cs
+C:\Users\Willem Dendauw\source\repos\Reeks1\ImageViewer\obj\Debug\App.g.cs
+C:\Users\Willem Dendauw\source\repos\Reeks1\ImageViewer\obj\Debug\ImageViewer_MarkupCompile.cache
+C:\Users\Willem Dendauw\source\repos\Reeks1\ImageViewer\obj\Debug\ImageViewer_MarkupCompile.lref
+C:\Users\Willem Dendauw\source\repos\Reeks1\ImageViewer\obj\Debug\ImageViewer.exe
+C:\Users\Willem Dendauw\source\repos\Reeks1\ImageViewer\obj\Debug\ImageViewer.pdb
+C:\Users\Willem Dendauw\source\repos\Reeks1\ImageViewer\bin\Debug\ImageViewer.exe.config
+C:\Users\Willem Dendauw\source\repos\Reeks1\ImageViewer\bin\Debug\ImageViewer.exe
+C:\Users\Willem Dendauw\source\repos\Reeks1\ImageViewer\bin\Debug\ImageViewer.pdb
+C:\Users\Willem Dendauw\source\repos\Reeks1\ImageViewer\obj\Debug\MainWindow.baml
+C:\Users\Willem Dendauw\source\repos\Reeks1\ImageViewer\obj\Debug\ImageViewer.g.resources
+C:\Users\Willem Dendauw\source\repos\Reeks1\ImageViewer\obj\Debug\ImageViewer.Properties.Resources.resources
+C:\Users\Willem Dendauw\source\repos\Reeks1\ImageViewer\obj\Debug\ImageViewer.csproj.GenerateResource.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks1\ImageViewer\bin\Debug\ImageViewer.exe.config
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks1\ImageViewer\bin\Debug\ImageViewer.exe
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks1\ImageViewer\bin\Debug\ImageViewer.pdb
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks1\ImageViewer\obj\Debug\ImageViewer.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks1\ImageViewer\obj\Debug\MainWindow.g.cs
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks1\ImageViewer\obj\Debug\App.g.cs
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks1\ImageViewer\obj\Debug\ImageViewer_MarkupCompile.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks1\ImageViewer\obj\Debug\ImageViewer_MarkupCompile.lref
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks1\ImageViewer\obj\Debug\MainWindow.baml
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks1\ImageViewer\obj\Debug\ImageViewer.g.resources
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks1\ImageViewer\obj\Debug\ImageViewer.Properties.Resources.resources
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks1\ImageViewer\obj\Debug\ImageViewer.csproj.GenerateResource.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks1\ImageViewer\obj\Debug\ImageViewer.exe
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks1\ImageViewer\obj\Debug\ImageViewer.pdb

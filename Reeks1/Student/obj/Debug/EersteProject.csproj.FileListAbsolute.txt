@@ -1,0 +1,5 @@
+C:\Users\Willem Dendauw\source\repos\Reeks1\Student\bin\Debug\Student.exe.config
+C:\Users\Willem Dendauw\source\repos\Reeks1\Student\bin\Debug\Student.exe
+C:\Users\Willem Dendauw\source\repos\Reeks1\Student\bin\Debug\Student.pdb
+C:\Users\Willem Dendauw\source\repos\Reeks1\Student\obj\Debug\Student.exe
+C:\Users\Willem Dendauw\source\repos\Reeks1\Student\obj\Debug\Student.pdb

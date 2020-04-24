@@ -1,0 +1,6 @@
+C:\Users\Willem Dendauw\source\repos\Reeks12 Matrix\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe.config
+C:\Users\Willem Dendauw\source\repos\Reeks12 Matrix\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe
+C:\Users\Willem Dendauw\source\repos\Reeks12 Matrix\MatrixMultiplication\bin\Debug\MatrixMultiplication.pdb
+C:\Users\Willem Dendauw\source\repos\Reeks12 Matrix\MatrixMultiplication\obj\Debug\MatrixMultiplication.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\source\repos\Reeks12 Matrix\MatrixMultiplication\obj\Debug\MatrixMultiplication.exe
+C:\Users\Willem Dendauw\source\repos\Reeks12 Matrix\MatrixMultiplication\obj\Debug\MatrixMultiplication.pdb

@@ -1,0 +1,32 @@
+@startuml STRATEGY
+
+skinparam Classattributeiconsize 0
+
+class ValidatorFactory{
+    +types : List<string>
+    +this[type: string]:IFieldValidation
+}
+note right:  Client
+
+interface IFieldValidation{
+    +Evaluate(s: string): bool
+}
+
+class NumberFieldValidation{
+    +ToString():string
+}
+
+class EmailFieldValidation{
+    +ToString():string
+}
+
+class BankFieldValidation{
+    +ToString():string
+}
+
+ValidatorFactory o-- IFieldValidation
+IFieldValidation <|.. BankFieldValidation
+IFieldValidation <|.. EmailFieldValidation
+IFieldValidation <|.. NumberFieldValidation
+
+@enduml

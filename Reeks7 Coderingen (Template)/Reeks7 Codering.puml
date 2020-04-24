@@ -1,0 +1,39 @@
+@startuml Coderingen groep 10
+
+skinparam classAttributeIconSize 0
+
+abstract class ACodering {
+    -VerwijderSpaties(zin:string):StringBuilder
+    -VerwijderSpecialeTekens(zinbuffer:StringBuilder):StringBuilder
+    #MaakEven(zinbuffer:StringBuilder):StringBuilder
+    #{abstract}Codeer(zin:string):string
+}
+note left: Abstract Class
+
+class Blok {
+    
+}
+note bottom: Concrete Class
+
+class Cijfer {
+    #MaakEven(zinbuffer:StringBuilder):StringBuilder
+}
+
+class Wissel {
+}
+
+ACodering <|-- Blok: is een
+ACodering <|-- Cijfer: is een
+ACodering <|-- Wissel: is een
+
+note as note1
+    groep 10
+end note
+note as note2
+    template Pattern
+end note
+note as note3
+    notitie na oplossing: de codeer methode
+    moet niet meer in de afgeleide klasse staan
+end note
+@enduml

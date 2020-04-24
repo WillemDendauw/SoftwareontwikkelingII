@@ -1,0 +1,69 @@
+@startuml
+skinparam ClassAttributeIconSize 0
+
+interface IGebruikerslijst {
+    +gebruikers: Gebruikers[]
+    +PasAan(gebruiker:Gebruiker):void
+    +Verwijder(gebruiker:Gebruiker):void
+    +VoegToe(gebruiker:Gebruiker):void
+}
+note right: ITarget
+
+class Gebruikerslijst {
+    +Gebruikerslijst()  
+}
+note right: adaptee
+
+class Gebruiker {
+    +achternaam:string
+    +gebruikersCode:int
+    +voornaam:string
+    +Gebruiker()
+}
+
+interface IDataBase {
+    +isConnected:bool
+    +CloseConnection(): void
+    +DeleteUser(user:User):void
+    +InsertUser(user:User):void
+    +OpenConnection():void
+    +SelectAllUsers():List<User>
+    +UpdateUser(user:User):void
+}
+note top:ITarget
+
+class MySQLDataBase {
+    +MySQLDataBase()
+
+}
+note left:adaptee
+class User {
+    +User()
+    +Firstname:string
+    +ID:int
+    +LastName: string
+}
+
+class GebruikerToUser {
+}
+note left:adapter
+
+class ConvertUserGebruiker {
+}
+
+class UserToGebruiker {
+}
+note right:adapter
+
+ConvertUserGebruiker <.. UserToGebruiker
+UserToGebruiker ..|> IGebruikerslijst
+
+ConvertUserGebruiker <..GebruikerToUser
+IDataBase <|..  GebruikerToUser
+IGebruikerslijst <|.. Gebruikerslijst
+Gebruiker  --o Gebruikerslijst: gebruikt
+
+IDataBase <|..  MySQLDataBase
+User --o MySQLDataBase: gebruikt
+
+@enduml

@@ -1,0 +1,15 @@
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\Coderingen\bin\Debug\Coderingen.dll
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\Coderingen\bin\Debug\Coderingen.pdb
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\Coderingen\obj\Debug\Coderingen.csproj.CoreCompileInputs.cache
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\Coderingen\obj\Debug\Coderingen.dll
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\Coderingen\obj\Debug\Coderingen.pdb
+C:\Users\Willem Dendauw\source\repos\Reeks7 Coderingen\Coderingen\bin\Debug\Coderingen.dll
+C:\Users\Willem Dendauw\source\repos\Reeks7 Coderingen\Coderingen\bin\Debug\Coderingen.pdb
+C:\Users\Willem Dendauw\source\repos\Reeks7 Coderingen\Coderingen\obj\Debug\Coderingen.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\source\repos\Reeks7 Coderingen\Coderingen\obj\Debug\Coderingen.dll
+C:\Users\Willem Dendauw\source\repos\Reeks7 Coderingen\Coderingen\obj\Debug\Coderingen.pdb
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\Coderingen\bin\Debug\Coderingen.dll
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\Coderingen\bin\Debug\Coderingen.pdb
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\Coderingen\obj\Debug\Coderingen.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\Coderingen\obj\Debug\Coderingen.dll
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\Coderingen\obj\Debug\Coderingen.pdb

@@ -1,0 +1,5 @@
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\Coderingen\bin\Debug\Coderingen.dll
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\Coderingen\bin\Debug\Coderingen.pdb
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\Coderingen\obj\Debug\Coderingen.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\Coderingen\obj\Debug\Coderingen.dll
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\Coderingen\obj\Debug\Coderingen.pdb

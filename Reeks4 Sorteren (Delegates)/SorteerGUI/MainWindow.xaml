@@ -1,0 +1,51 @@
+﻿<Window x:Class="SorteerProgramma.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sorteer Bestanden" Height="229" Width="316" ResizeMode="NoResize" Icon="SmallIcon.ico">
+    <Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="20*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150*"/>
+            <ColumnDefinition Width="150*"/>
+        </Grid.ColumnDefinitions>
+        <GroupBox Header="Bestanden" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="45*"/>
+                    <RowDefinition Height="45*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="60*"/>
+                    <ColumnDefinition Width="140*"/>
+                    <ColumnDefinition Width="100*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Invoer:" Grid.Row="0" Grid.Column="0"/>
+                <TextBox x:Name="TxtInputFile" TextWrapping="NoWrap" Height="20" Grid.Row="0" Grid.Column="1"/>
+                <Button x:Name="BtnInput" Content="Bladeren..." Grid.Row="0" Click="BtnInput_Click" Grid.Column="2" Height="20" Width="80"/>
+                <Label Content="Uitvoer:" Grid.Row="1" Grid.Column="0"/>
+                <TextBox x:Name="TxtOutputFile" TextWrapping="NoWrap" Height="20" Grid.Row="1" Grid.Column="1"/>
+                <Button x:Name="BtnOutput" Content="Bladeren..." Grid.Row="1" Click="BtnInput_Click" Grid.Column="2" Height="20" Width="80"/>
+            </Grid>
+        </GroupBox>
+
+        <GroupBox x:Name="FileType" Header="Betandstype" Grid.Column="0" Grid.Row="1">
+            <StackPanel Margin="5">
+                <RadioButton x:Name="TypeSchool" Content="Scholen" IsChecked="True"/>
+                <RadioButton x:Name="TypePark"  Content="Parken"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox x:Name="SortMethod" Header="Sorteermethode" Grid.Column="1" Grid.Row="1">
+            <StackPanel Margin="5">
+                <RadioButton x:Name="SortBubble" Content="Bubblesort" IsChecked="True"/>
+                <RadioButton x:Name="SortSelection" Content="Selection Sort"/>
+            </StackPanel>
+        </GroupBox>
+        <Button x:Name="BtnSort" Content="Sorteer" Click="BtnSort_Click" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Margin="5"/>
+        <TextBox x:Name="TxtResult" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Margin="5"/>
+    </Grid>
+</Window>

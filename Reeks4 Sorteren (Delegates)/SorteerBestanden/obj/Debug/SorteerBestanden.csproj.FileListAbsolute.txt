@@ -1,0 +1,18 @@
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerBestanden\bin\Debug\SorteerBestanden.exe.config
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerBestanden\bin\Debug\SorteerBestanden.exe
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerBestanden\bin\Debug\SorteerBestanden.pdb
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerBestanden\bin\Debug\Sorteren.dll
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerBestanden\bin\Debug\Sorteren.pdb
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerBestanden\obj\Debug\SorteerBestanden.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerBestanden\obj\Debug\SorteerBestanden.csproj.CopyComplete
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerBestanden\obj\Debug\SorteerBestanden.exe
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerBestanden\obj\Debug\SorteerBestanden.pdb
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\SorteerBestanden\bin\Debug\SorteerBestanden.exe.config
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\SorteerBestanden\bin\Debug\SorteerBestanden.exe
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\SorteerBestanden\bin\Debug\SorteerBestanden.pdb
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\SorteerBestanden\bin\Debug\Sorteren.dll
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\SorteerBestanden\bin\Debug\Sorteren.pdb
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\SorteerBestanden\obj\Debug\SorteerBestanden.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\SorteerBestanden\obj\Debug\SorteerBestanden.csproj.CopyComplete
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\SorteerBestanden\obj\Debug\SorteerBestanden.exe
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\SorteerBestanden\obj\Debug\SorteerBestanden.pdb

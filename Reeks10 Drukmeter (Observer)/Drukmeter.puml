@@ -1,0 +1,28 @@
+@startuml Drukmeter
+skinparam ClassAttributeIconSize 0
+
+class InvoerObserver{
+
+}
+
+class UitvoerObserver{
+
+}
+
+interface IObserver{
+
+}
+
+class Druk {
+
+}
+
+InvoerObserver <|.up. IObserver
+UitvoerObserver <|.up. IObserver
+InvoerObserver o-- Druk
+UitvoerObserver o-- Druk
+
+IObserver --o Druk
+
+
+@enduml

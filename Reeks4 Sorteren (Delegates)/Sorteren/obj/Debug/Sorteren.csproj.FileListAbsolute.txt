@@ -1,0 +1,10 @@
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\Sorteren\obj\Debug\Sorteren.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\Sorteren\bin\Debug\Sorteren.dll
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\Sorteren\bin\Debug\Sorteren.pdb
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\Sorteren\obj\Debug\Sorteren.dll
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\Sorteren\obj\Debug\Sorteren.pdb
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\Sorteren\bin\Debug\Sorteren.dll
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\Sorteren\bin\Debug\Sorteren.pdb
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\Sorteren\obj\Debug\Sorteren.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\Sorteren\obj\Debug\Sorteren.dll
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\Sorteren\obj\Debug\Sorteren.pdb

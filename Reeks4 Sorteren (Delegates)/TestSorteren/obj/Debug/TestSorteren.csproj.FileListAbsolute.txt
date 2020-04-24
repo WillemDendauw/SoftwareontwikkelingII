@@ -1,0 +1,16 @@
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\TestSorteren\obj\Debug\TestSorteren.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\TestSorteren\bin\Debug\TestSorteren.dll
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\TestSorteren\bin\Debug\TestSorteren.pdb
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\TestSorteren\bin\Debug\Catalogus.dll
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\TestSorteren\bin\Debug\Sorteren.dll
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\TestSorteren\bin\Debug\Sorteren.pdb
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\TestSorteren\obj\Debug\TestSorteren.csproj.CopyComplete
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\TestSorteren\obj\Debug\TestSorteren.dll
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\TestSorteren\obj\Debug\TestSorteren.pdb

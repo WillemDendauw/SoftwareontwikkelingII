@@ -1,0 +1,45 @@
+@startuml Coderingen
+
+skinparam classAttributeIconSize 0
+
+class Helper{
+    +MeerdereCoderingen(types:string): ICodering
+}
+
+interface ICodering {
+    +Codeer(zin: string):string
+}
+note left: IComponent
+
+abstract class ACodering {
+    -codering: ICodering
+    +{abstract} Codeer():string
+    +ACodering(codering: ICodering)
+}
+note right: Decorator
+
+class Blok {
+    
+}
+
+class Wissel {  
+}
+
+class Cijfer {
+}
+
+class BasisCodering{
+
+}
+note left: Component
+
+Helper ..> ICodering: uses
+ICodering <|.. ACodering 
+BasisCodering ..|> ICodering
+ACodering <|-- Blok: is een
+ACodering <|-- Wissel: is een
+ACodering <|-- Cijfer: is een
+ICodering ---o ACodering: heeft een
+
+
+@enduml

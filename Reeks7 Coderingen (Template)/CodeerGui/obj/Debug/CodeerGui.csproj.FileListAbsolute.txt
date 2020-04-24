@@ -1,0 +1,50 @@
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\CodeerGui\bin\Debug\CodeerGui.exe.config
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\CodeerGui\bin\Debug\CodeerGui.exe
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\CodeerGui\bin\Debug\CodeerGui.pdb
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\CodeerGui\bin\Debug\Coderingen.dll
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\CodeerGui\bin\Debug\Coderingen.pdb
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\CodeerGui\obj\Debug\CodeerGui.csprojAssemblyReference.cache
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\CodeerGui\obj\Debug\MainWindow.baml
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\CodeerGui\obj\Debug\MainWindow.g.cs
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\CodeerGui\obj\Debug\App.g.cs
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\CodeerGui\obj\Debug\CodeerGui_MarkupCompile.cache
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\CodeerGui\obj\Debug\CodeerGui.g.resources
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\CodeerGui\obj\Debug\CodeerGui.Properties.Resources.resources
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\CodeerGui\obj\Debug\CodeerGui.csproj.GenerateResource.cache
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\CodeerGui\obj\Debug\CodeerGui.csproj.CoreCompileInputs.cache
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\CodeerGui\obj\Debug\CodeerGui.csproj.CopyComplete
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\CodeerGui\obj\Debug\CodeerGui.exe
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2\CodeerGui\obj\Debug\CodeerGui.pdb
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2Project\CodeerGui\bin\Debug\CodeerGui.exe.config
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2Project\CodeerGui\bin\Debug\CodeerGui.exe
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2Project\CodeerGui\bin\Debug\CodeerGui.pdb
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2Project\CodeerGui\bin\Debug\Coderingen.dll
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2Project\CodeerGui\bin\Debug\Coderingen.pdb
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2Project\CodeerGui\obj\Debug\CodeerGui.csprojAssemblyReference.cache
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2Project\CodeerGui\obj\Debug\MainWindow.baml
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2Project\CodeerGui\obj\Debug\MainWindow.g.cs
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2Project\CodeerGui\obj\Debug\App.g.cs
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2Project\CodeerGui\obj\Debug\CodeerGui_MarkupCompile.cache
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2Project\CodeerGui\obj\Debug\CodeerGui.g.resources
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2Project\CodeerGui\obj\Debug\CodeerGui.Properties.Resources.resources
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2Project\CodeerGui\obj\Debug\CodeerGui.csproj.GenerateResource.cache
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2Project\CodeerGui\obj\Debug\CodeerGui.csproj.CoreCompileInputs.cache
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2Project\CodeerGui\obj\Debug\CodeerGui.csproj.CopyComplete
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2Project\CodeerGui\obj\Debug\CodeerGui.exe
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks2Project\CodeerGui\obj\Debug\CodeerGui.pdb
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\CodeerGui\bin\Debug\CodeerGui.exe.config
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\CodeerGui\bin\Debug\CodeerGui.exe
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\CodeerGui\bin\Debug\CodeerGui.pdb
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\CodeerGui\bin\Debug\Coderingen.dll
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\CodeerGui\bin\Debug\Coderingen.pdb
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\CodeerGui\obj\Debug\CodeerGui.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\CodeerGui\obj\Debug\MainWindow.baml
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\CodeerGui\obj\Debug\MainWindow.g.cs
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\CodeerGui\obj\Debug\App.g.cs
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\CodeerGui\obj\Debug\CodeerGui_MarkupCompile.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\CodeerGui\obj\Debug\CodeerGui.g.resources
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\CodeerGui\obj\Debug\CodeerGui.Properties.Resources.resources
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\CodeerGui\obj\Debug\CodeerGui.csproj.GenerateResource.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\CodeerGui\obj\Debug\CodeerGui.csproj.CopyComplete
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\CodeerGui\obj\Debug\CodeerGui.exe
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks7 Coderingen (Template)\CodeerGui\obj\Debug\CodeerGui.pdb

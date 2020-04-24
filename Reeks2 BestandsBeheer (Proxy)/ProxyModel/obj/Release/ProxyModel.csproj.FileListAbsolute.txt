@@ -1,0 +1,4 @@
+C:\Users\Willem Dendauw\source\repos\Reeks2 BestandsBeheer\ProxyModel\bin\Release\ProxyModel.dll
+C:\Users\Willem Dendauw\source\repos\Reeks2 BestandsBeheer\ProxyModel\bin\Release\ProxyModel.pdb
+C:\Users\Willem Dendauw\source\repos\Reeks2 BestandsBeheer\ProxyModel\obj\Release\ProxyModel.dll
+C:\Users\Willem Dendauw\source\repos\Reeks2 BestandsBeheer\ProxyModel\obj\Release\ProxyModel.pdb

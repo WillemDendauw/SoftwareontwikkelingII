@@ -1,0 +1,17 @@
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\CodeerGUI\bin\Debug\CodeerGUI.exe.config
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\CodeerGUI\bin\Debug\CodeerGUI.exe
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\CodeerGUI\bin\Debug\CodeerGUI.pdb
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\CodeerGUI\bin\Debug\Coderingen.dll
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\CodeerGUI\bin\Debug\Coderingen.pdb
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\CodeerGUI\obj\Debug\CodeerGUI.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\CodeerGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\CodeerGUI\obj\Debug\App.g.cs
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\CodeerGUI\obj\Debug\CodeerGUI_MarkupCompile.cache
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\CodeerGUI\obj\Debug\CodeerGUI_MarkupCompile.lref
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\CodeerGUI\obj\Debug\MainWindow.baml
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\CodeerGUI\obj\Debug\CodeerGUI.g.resources
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\CodeerGUI\obj\Debug\CodeerGUI.Properties.Resources.resources
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\CodeerGUI\obj\Debug\CodeerGUI.csproj.GenerateResource.cache
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\CodeerGUI\obj\Debug\CodeerGUI.csproj.CopyComplete
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\CodeerGUI\obj\Debug\CodeerGUI.exe
+C:\Users\Willem Dendauw\source\repos\Reeks2 Coderingen\CodeerGUI\obj\Debug\CodeerGUI.pdb

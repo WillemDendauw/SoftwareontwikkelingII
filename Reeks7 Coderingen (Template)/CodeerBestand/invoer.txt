@@ -1,0 +1,3 @@
+﻿Dit is een oefening op Design Patterns
+Dit is een oefening op Design Patterns
+Dit is een oefening op Design Patterns

@@ -1,0 +1,30 @@
+@startuml
+skinparam ClassAttributeIconSize 0
+
+Interface ICommand{
+    +verander():void
+}
+
+class Bediening{
+}
+
+class ChangeStroke{
+}
+
+class ChangeFill{
+}
+
+class Teken{
+}
+
+class Reset{
+}
+
+Bediening o-- ICommand
+ICommand <|-- ChangeFill
+ICommand <|-- ChangeStroke
+ICommand <|-- Teken
+ICommand <|-- Reset
+
+
+@enduml

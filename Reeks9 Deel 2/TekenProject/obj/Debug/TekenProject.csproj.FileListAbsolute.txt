@@ -1,0 +1,44 @@
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\Reeks09_StartProject\TekenProject\bin\Debug\TekenProject.exe.config
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\Reeks09_StartProject\TekenProject\bin\Debug\TekenProject.exe
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\Reeks09_StartProject\TekenProject\bin\Debug\TekenProject.pdb
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\Reeks09_StartProject\TekenProject\obj\Debug\TekenProject.csprojAssemblyReference.cache
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\Reeks09_StartProject\TekenProject\obj\Debug\MainWindow.g.cs
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\Reeks09_StartProject\TekenProject\obj\Debug\App.g.cs
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\Reeks09_StartProject\TekenProject\obj\Debug\TekenProject_MarkupCompile.cache
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\Reeks09_StartProject\TekenProject\obj\Debug\TekenProject_MarkupCompile.lref
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\Reeks09_StartProject\TekenProject\obj\Debug\MainWindow.baml
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\Reeks09_StartProject\TekenProject\obj\Debug\TekenProject.g.resources
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\Reeks09_StartProject\TekenProject\obj\Debug\TekenProject.Properties.Resources.resources
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\Reeks09_StartProject\TekenProject\obj\Debug\TekenProject.csproj.GenerateResource.cache
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\Reeks09_StartProject\TekenProject\obj\Debug\TekenProject.csproj.CoreCompileInputs.cache
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\Reeks09_StartProject\TekenProject\obj\Debug\TekenProject.exe
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\Reeks09_StartProject\TekenProject\obj\Debug\TekenProject.pdb
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks09_Deel1\TekenProject\obj\Debug\TekenProject.csprojAssemblyReference.cache
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks09_Deel1\TekenProject\obj\Debug\MainWindow.g.cs
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks09_Deel1\TekenProject\obj\Debug\App.g.cs
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks09_Deel1\TekenProject\obj\Debug\TekenProject_MarkupCompile.cache
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks09_Deel1\TekenProject\obj\Debug\TekenProject_MarkupCompile.lref
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks09_Deel1\TekenProject\obj\Debug\TekenProject.exe
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks09_Deel1\TekenProject\obj\Debug\TekenProject.pdb
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks09_Deel1\TekenProject\bin\Debug\TekenProject.exe.config
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks09_Deel1\TekenProject\bin\Debug\TekenProject.exe
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks09_Deel1\TekenProject\bin\Debug\TekenProject.pdb
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks09_Deel1\TekenProject\obj\Debug\MainWindow.baml
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks09_Deel1\TekenProject\obj\Debug\TekenProject.g.resources
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks09_Deel1\TekenProject\obj\Debug\TekenProject.Properties.Resources.resources
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks09_Deel1\TekenProject\obj\Debug\TekenProject.csproj.GenerateResource.cache
+C:\Users\Marleen\Documents\huidig\Git\SOLabo\oplossingen\projecten\Reeks09_Deel1\TekenProject\obj\Debug\TekenProject.csproj.CoreCompileInputs.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks9 Deel 2\TekenProject\bin\Debug\TekenProject.exe.config
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks9 Deel 2\TekenProject\bin\Debug\TekenProject.exe
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks9 Deel 2\TekenProject\bin\Debug\TekenProject.pdb
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks9 Deel 2\TekenProject\obj\Debug\TekenProject.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks9 Deel 2\TekenProject\obj\Debug\MainWindow.g.cs
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks9 Deel 2\TekenProject\obj\Debug\App.g.cs
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks9 Deel 2\TekenProject\obj\Debug\TekenProject_MarkupCompile.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks9 Deel 2\TekenProject\obj\Debug\TekenProject_MarkupCompile.lref
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks9 Deel 2\TekenProject\obj\Debug\MainWindow.baml
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks9 Deel 2\TekenProject\obj\Debug\TekenProject.g.resources
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks9 Deel 2\TekenProject\obj\Debug\TekenProject.Properties.Resources.resources
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks9 Deel 2\TekenProject\obj\Debug\TekenProject.csproj.GenerateResource.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks9 Deel 2\TekenProject\obj\Debug\TekenProject.exe
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks9 Deel 2\TekenProject\obj\Debug\TekenProject.pdb

@@ -1,0 +1,45 @@
+@startuml reeks2
+
+skinparam ClassAttributeIconSize 0
+
+interface IFile{
+    +Content string{get}
+}
+note right: ISubject
+
+class RealFile{
+
+}
+note top: Subject
+
+class CachingProxyFile{
+    -cachedFiles : Dictionary<string,IFile>
+    -Filename : string
+}
+note bottom: cachingproxy
+
+class AuthenticationProxyFile{
+    -user: User
+    -filename: string
+}
+note top: authenticaytieproxy
+
+class FileAccesException{
+
+}
+
+class User{
+    +IsAdmin : bool{get}
+    +UserName: string{get}
+}
+
+IFile <|.. AuthenticationProxyFile
+IFile <|.. CachingProxyFile
+IFile <|.. RealFile
+AuthenticationProxyFile ..> FileAccesException : uses
+AuthenticationProxyFile ..> User : uses
+
+RealFile --o CachingProxyFile
+CachingProxyFile --o AuthenticationProxyFile
+
+@enduml

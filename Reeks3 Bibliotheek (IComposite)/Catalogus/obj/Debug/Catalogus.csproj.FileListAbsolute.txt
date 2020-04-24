@@ -1,0 +1,6 @@
+C:\Users\Willem Dendauw\source\repos\Reeks3 Bibliotheek\Catalogus\obj\Debug\Catalogus.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Bibliotheek (IComposite)\Catalogus\bin\Debug\Bibliotheek.dll
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Bibliotheek (IComposite)\Catalogus\bin\Debug\Bibliotheek.pdb
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Bibliotheek (IComposite)\Catalogus\obj\Debug\Catalogus.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Bibliotheek (IComposite)\Catalogus\obj\Debug\Bibliotheek.dll
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Bibliotheek (IComposite)\Catalogus\obj\Debug\Bibliotheek.pdb

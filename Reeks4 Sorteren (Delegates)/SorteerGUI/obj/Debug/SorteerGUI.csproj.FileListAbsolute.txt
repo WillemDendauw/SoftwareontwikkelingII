@@ -1,0 +1,37 @@
+C:\Users\Marleen\Dropbox\SoftwareOntwikkeling II\2018-2019\labo\reeks04\opgave\GUI\SorteerGUI\obj\Debug\MainWindow.baml
+C:\Users\Marleen\Dropbox\SoftwareOntwikkeling II\2018-2019\labo\reeks04\opgave\GUI\SorteerGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Marleen\Dropbox\SoftwareOntwikkeling II\2018-2019\labo\reeks04\opgave\GUI\SorteerGUI\obj\Debug\App.g.cs
+C:\Users\Marleen\Dropbox\SoftwareOntwikkeling II\2018-2019\labo\reeks04\opgave\GUI\SorteerGUI\obj\Debug\SorteerProgramma_MarkupCompile.cache
+C:\Users\Marleen\Dropbox\SoftwareOntwikkeling II\2018-2019\labo\reeks04\opgave\GUI\SorteerGUI\obj\Debug\SorteerProgramma.g.resources
+C:\Users\Marleen\Dropbox\SoftwareOntwikkeling II\2018-2019\labo\reeks04\opgave\GUI\SorteerGUI\obj\Debug\SorteerProgramma.Properties.Resources.resources
+C:\Users\Marleen\Dropbox\SoftwareOntwikkeling II\2018-2019\labo\reeks04\opgave\GUI\SorteerGUI\obj\Debug\SorteerGUI.csproj.GenerateResource.cache
+C:\Users\Marleen\Dropbox\SoftwareOntwikkeling II\2018-2019\labo\reeks04\opgave\GUI\SorteerGUI\obj\Debug\SorteerGUI.csproj.CoreCompileInputs.cache
+C:\Users\Marleen\Dropbox\SoftwareOntwikkeling II\2018-2019\labo\reeks04\opgave\GUI\SorteerGUI\bin\Debug\SorteerProgramma.exe.config
+C:\Users\Marleen\Dropbox\SoftwareOntwikkeling II\2018-2019\labo\reeks04\opgave\GUI\SorteerGUI\bin\Debug\SorteerProgramma.exe
+C:\Users\Marleen\Dropbox\SoftwareOntwikkeling II\2018-2019\labo\reeks04\opgave\GUI\SorteerGUI\bin\Debug\SorteerProgramma.pdb
+C:\Users\Marleen\Dropbox\SoftwareOntwikkeling II\2018-2019\labo\reeks04\opgave\GUI\SorteerGUI\obj\Debug\SorteerProgramma.exe
+C:\Users\Marleen\Dropbox\SoftwareOntwikkeling II\2018-2019\labo\reeks04\opgave\GUI\SorteerGUI\obj\Debug\SorteerProgramma.pdb
+C:\Users\Marleen\Dropbox\SoftwareOntwikkeling II\2018-2019\labo\reeks04\opgave\GUI\SorteerGUI\obj\Debug\SorteerGUI.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerGUI\bin\Debug\SorteerProgramma.exe.config
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerGUI\bin\Debug\SorteerProgramma.exe
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerGUI\bin\Debug\SorteerProgramma.pdb
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerGUI\obj\Debug\SorteerGUI.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerGUI\obj\Debug\MainWindow.baml
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerGUI\obj\Debug\App.g.cs
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerGUI\obj\Debug\SorteerProgramma_MarkupCompile.cache
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerGUI\obj\Debug\SorteerProgramma.g.resources
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerGUI\obj\Debug\SorteerProgramma.Properties.Resources.resources
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerGUI\obj\Debug\SorteerGUI.csproj.GenerateResource.cache
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerGUI\obj\Debug\SorteerProgramma.exe
+C:\Users\Willem Dendauw\source\repos\Reeks4 Delegates\SorteerGUI\obj\Debug\SorteerProgramma.pdb
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\SorteerGUI\obj\Debug\SorteerGUI.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\SorteerGUI\obj\Debug\MainWindow.baml
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\SorteerGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\SorteerGUI\obj\Debug\App.g.cs
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\SorteerGUI\obj\Debug\SorteerProgramma_MarkupCompile.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\SorteerGUI\obj\Debug\SorteerProgramma.g.resources
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\SorteerGUI\obj\Debug\SorteerProgramma.Properties.Resources.resources
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\SorteerGUI\obj\Debug\SorteerGUI.csproj.GenerateResource.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\SorteerGUI\obj\Debug\SorteerProgramma.exe
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks4 Sorteren (Delegates)\SorteerGUI\obj\Debug\SorteerProgramma.pdb

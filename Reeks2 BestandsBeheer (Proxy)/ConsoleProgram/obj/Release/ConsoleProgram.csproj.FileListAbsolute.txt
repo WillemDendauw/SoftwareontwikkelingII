@@ -1,0 +1,9 @@
+C:\Users\Willem Dendauw\source\repos\Reeks2 BestandsBeheer\ConsoleProgram\bin\Release\ConsoleProgram.exe.config
+C:\Users\Willem Dendauw\source\repos\Reeks2 BestandsBeheer\ConsoleProgram\bin\Release\ConsoleProgram.exe
+C:\Users\Willem Dendauw\source\repos\Reeks2 BestandsBeheer\ConsoleProgram\bin\Release\ConsoleProgram.pdb
+C:\Users\Willem Dendauw\source\repos\Reeks2 BestandsBeheer\ConsoleProgram\bin\Release\ProxyModel.dll
+C:\Users\Willem Dendauw\source\repos\Reeks2 BestandsBeheer\ConsoleProgram\bin\Release\ProxyModel.pdb
+C:\Users\Willem Dendauw\source\repos\Reeks2 BestandsBeheer\ConsoleProgram\obj\Release\ConsoleProgram.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\source\repos\Reeks2 BestandsBeheer\ConsoleProgram\obj\Release\ConsoleProgram.csproj.CopyComplete
+C:\Users\Willem Dendauw\source\repos\Reeks2 BestandsBeheer\ConsoleProgram\obj\Release\ConsoleProgram.exe
+C:\Users\Willem Dendauw\source\repos\Reeks2 BestandsBeheer\ConsoleProgram\obj\Release\ConsoleProgram.pdb

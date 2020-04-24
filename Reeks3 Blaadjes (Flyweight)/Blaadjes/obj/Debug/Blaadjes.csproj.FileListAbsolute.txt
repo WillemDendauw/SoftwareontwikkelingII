@@ -1,0 +1,28 @@
+C:\Users\Willem Dendauw\source\repos\Reeks3 Blaadjes\Blaadjes\bin\Debug\Blaadjes.exe.config
+C:\Users\Willem Dendauw\source\repos\Reeks3 Blaadjes\Blaadjes\bin\Debug\Blaadjes.exe
+C:\Users\Willem Dendauw\source\repos\Reeks3 Blaadjes\Blaadjes\bin\Debug\Blaadjes.pdb
+C:\Users\Willem Dendauw\source\repos\Reeks3 Blaadjes\Blaadjes\obj\Debug\Blaadjes.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\source\repos\Reeks3 Blaadjes\Blaadjes\obj\Debug\MainWindow.g.cs
+C:\Users\Willem Dendauw\source\repos\Reeks3 Blaadjes\Blaadjes\obj\Debug\App.g.cs
+C:\Users\Willem Dendauw\source\repos\Reeks3 Blaadjes\Blaadjes\obj\Debug\Blaadjes_MarkupCompile.cache
+C:\Users\Willem Dendauw\source\repos\Reeks3 Blaadjes\Blaadjes\obj\Debug\Blaadjes_MarkupCompile.lref
+C:\Users\Willem Dendauw\source\repos\Reeks3 Blaadjes\Blaadjes\obj\Debug\MainWindow.baml
+C:\Users\Willem Dendauw\source\repos\Reeks3 Blaadjes\Blaadjes\obj\Debug\Blaadjes.g.resources
+C:\Users\Willem Dendauw\source\repos\Reeks3 Blaadjes\Blaadjes\obj\Debug\Blaadjes.Properties.Resources.resources
+C:\Users\Willem Dendauw\source\repos\Reeks3 Blaadjes\Blaadjes\obj\Debug\Blaadjes.csproj.GenerateResource.cache
+C:\Users\Willem Dendauw\source\repos\Reeks3 Blaadjes\Blaadjes\obj\Debug\Blaadjes.exe
+C:\Users\Willem Dendauw\source\repos\Reeks3 Blaadjes\Blaadjes\obj\Debug\Blaadjes.pdb
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Blaadjes (Flyweight)\Blaadjes\bin\Debug\Blaadjes.exe.config
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Blaadjes (Flyweight)\Blaadjes\bin\Debug\Blaadjes.exe
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Blaadjes (Flyweight)\Blaadjes\bin\Debug\Blaadjes.pdb
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Blaadjes (Flyweight)\Blaadjes\obj\Debug\Blaadjes.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Blaadjes (Flyweight)\Blaadjes\obj\Debug\MainWindow.g.cs
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Blaadjes (Flyweight)\Blaadjes\obj\Debug\App.g.cs
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Blaadjes (Flyweight)\Blaadjes\obj\Debug\Blaadjes_MarkupCompile.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Blaadjes (Flyweight)\Blaadjes\obj\Debug\Blaadjes_MarkupCompile.lref
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Blaadjes (Flyweight)\Blaadjes\obj\Debug\MainWindow.baml
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Blaadjes (Flyweight)\Blaadjes\obj\Debug\Blaadjes.g.resources
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Blaadjes (Flyweight)\Blaadjes\obj\Debug\Blaadjes.Properties.Resources.resources
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Blaadjes (Flyweight)\Blaadjes\obj\Debug\Blaadjes.csproj.GenerateResource.cache
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Blaadjes (Flyweight)\Blaadjes\obj\Debug\Blaadjes.exe
+C:\Users\Willem Dendauw\Documents\School\UGent\3de Bach\Semester I\SoftwareOntwikkeling II\Labo\Mijn oplossingen\Reeks3 Blaadjes (Flyweight)\Blaadjes\obj\Debug\Blaadjes.pdb

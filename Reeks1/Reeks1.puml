@@ -1,0 +1,16 @@
+@startuml willem
+skinparam classAttributeIconSize 0
+class Person {
+    -name : string
+    +Person(name : string)
+    +WelcomeMessage(): string
+}
+
+class Student {
+    -inschrijvingsnummer : int
+    +Student(name : string, inschrijvingsnummer: int)
+    +WelcomeMessage() : string
+}
+
+Person <|-- Student
+@enduml 

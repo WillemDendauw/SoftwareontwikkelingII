@@ -1,0 +1,9 @@
+C:\Users\Willem Dendauw\source\repos\Reeks5 Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\Willem Dendauw\source\repos\Reeks5 Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\Willem Dendauw\source\repos\Reeks5 Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\Willem Dendauw\source\repos\Reeks5 Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Willem Dendauw\source\repos\Reeks5 Adapter\Adapter\bin\Debug\GebruikerPortaal.dll
+C:\Users\Willem Dendauw\source\repos\Reeks5 Adapter\Adapter\bin\Debug\UserDatabase.dll
+C:\Users\Willem Dendauw\source\repos\Reeks5 Adapter\Adapter\obj\Debug\Adapter.csproj.CopyComplete
+C:\Users\Willem Dendauw\source\repos\Reeks5 Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\Willem Dendauw\source\repos\Reeks5 Adapter\Adapter\obj\Debug\Adapter.pdb

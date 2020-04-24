@@ -1,0 +1,82 @@
+@startuml Groepnr20
+skinparam classAttributeIconSize 0
+
+interface IBibItem {
+    +ID: string
+    +ouder: IBibItem
+    +IBibItem()
+    +VoegToe(bibItem: IBibItem):void
+    +Verwijder(bibItem: IBibItem):void
+    +Zoek(id: string): IBibItem
+    +ZoekTrefwoord(trefwoord: string): ISet<IBibItem>
+    +VerplaatsNaar(bibItem: IBibItem):void
+    +Toon(insprong:int): string
+}
+note left: IComponent
+
+class Boek{
+    +Titel: string
+    +Auteur: string
+    +Uitgeverij: string
+    +Jaartal: int
+    +Boek()
+    +Toon(insprong:int): string
+    +Zoek(id: string): IBibItem
+    +ZoekTrefwoord(trefwoord: string): ISet<IBibItem>
+}
+note bottom: concreet component
+
+class Artikel{
+    +Titel: string
+    +Auteur: string
+    +Artikel()
+    +Toon(insprong:int): string
+    +Zoek(id: string): IBibItem
+    +ZoekTrefwoord(trefwoord: string): ISet<IBibItem>
+}
+note bottom: concreet component
+
+abstract class Composite{
+    +ID: string
+    +ouder: IBibItem
+    +Composite()
+    +VoegToe(bibItem: IBibItem):void
+    +Verwijder(bibItem: IBibItem):void
+    +Zoek(id: string): IBibItem
+    +ZoekTrefwoord(trefwoord: string): ISet<IBibItem>
+    +VerplaatsNaar(bibItem: IBibItem):void
+    +Toon(insprong:int): string
+}
+note left: abstracte Composite
+
+class Tijdschrift{    
+    +Auteur: string
+    +Uitgeverij: string
+    +Jaartal: DateTime
+    +Tijdschrift()
+}
+note bottom: concreet Composite
+
+class Afdeling{
+    +Titel: string
+    +Afdeling()
+}
+note bottom: concreet Composite
+
+abstract class BibItem{
+    +BibItem()
+    +Toon(insprong:int): string
+    +Zoek(id: string): IBibItem
+    +ZoekTrefwoord(trefwoord: string): ISet<IBibItem>
+}
+note left: abstracte Component
+
+IBibItem "*"--o Composite : heeft
+Composite <|-- Afdeling : is een
+IBibItem <|.. Composite : is een
+
+IBibItem <|.. BibItem : is een
+Composite <|-- Tijdschrift : is een
+BibItem <|-- Artikel : is een
+BibItem <|-- Boek : is een
+@enduml
