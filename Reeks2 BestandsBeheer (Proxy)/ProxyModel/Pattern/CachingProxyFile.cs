@@ -26,10 +26,10 @@ namespace ProxyModel.Pattern
             {
                 if(file == null)
                 {
-                    //checken of het al gecached is
+                    //Check if file is already cached
                     if (!cachedFiles.ContainsKey(filename))
                     {
-                        //read file from disk and add to cach
+                        //read file from disk and add to cache
                         cachedFiles.Add(filename, new RealFile(filename));
                     }
                     file = cachedFiles[filename];

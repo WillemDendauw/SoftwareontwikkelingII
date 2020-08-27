@@ -1,21 +1,23 @@
 ﻿using System.Windows.Controls;
 using System;
+using DrukMeterView.DecoratorPattern;
 
 namespace DrukMeterView
 {
     /// <summary>
     /// Interaction logic for InvoerControl.xaml
     /// </summary>
-    public partial class InvoerControl : UserControl, IObserver
+    public partial class InvoerControl : UserControl
     {
-        DrukPascal model;
-        public InvoerControl(DrukPascal model)
+        ISubject model;
+        public InvoerControl(ISubject model)
         {
             InitializeComponent();
             this.model = model;
             lblEenheid.Content = model.Eenheid;
             groupBox.Header = "druk in " + model.Naam;
-            model.AddObserver(this);
+            model.Add(Update); //kan enkel hier bij Dependency Injection
+            model.Druk = model.Druk; //activeert de Notify
         }
 
         private void btnVerlaag_Click(object sender, System.Windows.RoutedEventArgs e)
@@ -39,10 +41,10 @@ namespace DrukMeterView
             }
         }
 
-        public void Update()
+        public void Update(double druk, double max)
         {
-            txtWaarde.Text = Convert.ToString(model.Druk);
-            txtMax.Text = Convert.ToString(model.Max);
+            txtWaarde.Text = Convert.ToString(druk);
+            txtMax.Text = Convert.ToString(max);
         }
     }
 }

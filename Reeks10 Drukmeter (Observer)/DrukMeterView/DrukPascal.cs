@@ -7,31 +7,19 @@ using DrukMeterView.DecoratorPattern;
 
 namespace DrukMeterView
 {
+    //Delegate voor push
+    public delegate void CallBack(double druk, double maxDruk);
+
+    //toegevoegd: afgeleid van interface
     public class DrukPascal: ISubject
     {
-        private double druk = 101325;
+        private event CallBack Notify;
+        private double druk = 101325, max = 1700000;
 
         public string Eenheid { get; } = "Pa";
         public string Naam { get; } = "Pascal";
 
-        public double Max { get; } = 1700000;
-
-        private List<IObserver> observers = new List<IObserver>();
-
-        //enkel teovoegen
-        public void AddObserver(IObserver observer)
-        {
-            observers.Add(observer);
-            observer.Update();
-        }
-
-        private void Notify()
-        {
-            foreach(IObserver observer in observers)
-            {
-                observer.Update();
-            }
-        }
+        public double Max => max;
 
         public double Druk
         {
@@ -42,8 +30,14 @@ namespace DrukMeterView
             set
             {
                 druk = Math.Max(0, Math.Min(value, Max));
-                Notify();
+                Notify?.Invoke(Druk, Max); //Notify if not null
             }
+        }
+
+        //Observer - push : deze klasse moet zelf push uitvoeren
+        public void Add(CallBack method)
+        {
+            Notify += method;
         }
     }
 }

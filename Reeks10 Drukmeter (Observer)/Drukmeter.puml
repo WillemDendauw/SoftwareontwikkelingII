@@ -13,16 +13,17 @@ interface IObserver{
 
 }
 
-class Druk {
+class DrukPascal {
 
 }
 
+interface ISubject
+
 InvoerObserver <|.up. IObserver
 UitvoerObserver <|.up. IObserver
-InvoerObserver o-- Druk
-UitvoerObserver o-- Druk
+ISubject -right- IObserver
 
-IObserver --o Druk
+ISubject --|> DrukPascal
 
 
 @enduml

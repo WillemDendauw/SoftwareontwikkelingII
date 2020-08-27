@@ -14,5 +14,7 @@ namespace DrukMeterView.DecoratorPattern
         string Naam { get; }
 
         double Max { get; }
+
+        void Add(CallBack method);
     }
 }

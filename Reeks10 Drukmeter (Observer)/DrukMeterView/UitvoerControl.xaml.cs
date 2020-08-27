@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DrukMeterView.DecoratorPattern;
+using System;
 using System.Windows.Controls;
 
 namespace DrukMeterView
@@ -6,20 +7,18 @@ namespace DrukMeterView
     /// <summary>
     /// Interaction logic for UitvoerControl.xaml
     /// </summary>
-    public partial class UitvoerControl : UserControl,IObserver
+    public partial class UitvoerControl : UserControl
     {
-        DrukPascal model;
-        public UitvoerControl(DrukPascal model)
+        public UitvoerControl(ISubject model)
         {
             InitializeComponent();
-            this.model = model;
-            model.AddObserver(this);
+            model.Add(UpdateWijzer); //kan enkel hier bij dependency injection
+            model.Druk = model.Druk; //activeert de notify
         }
 
-        public void Update()
+        public void UpdateWijzer(double druk, double maxDruk)
         {
-            //pull: informatie wordt opgehaald van model
-            double currentAngle = (5.0 / 4.0) * Math.PI - (model.Druk / model.Max) * (Math.PI * 3.0 / 2.0);
+            double currentAngle = (5.0 / 4.0) * Math.PI - (druk / maxDruk) * (Math.PI * 3.0 / 2.0);
             wijzer.X2 = 100 + 60 * Math.Cos(currentAngle);
             wijzer.Y2 = 100 - 60 * Math.Sin(currentAngle);
         }

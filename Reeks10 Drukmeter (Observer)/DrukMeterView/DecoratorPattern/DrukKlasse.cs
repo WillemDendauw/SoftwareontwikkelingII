@@ -8,32 +8,47 @@ namespace DrukMeterView.DecoratorPattern
 {
     public class DrukKlasse : ISubject
     {
-        private ISubject pascal;
+        //decorator-pattern, enkel voor druk
+        //Observer moet in de klasse staan bij pull (juiste informatie doorgeven!)
 
-        public string Eenheid { get; }
+        public event CallBack Notify;
+        
+        ISubject drukPascal;
 
-        public string Naam { get; }
-
-        public double Max { get; }
-        public DrukKlasse(ISubject pascal, double factor, string eenheid, string naam)
+        private double factor;
+        private string eenheid, naam;
+        public DrukKlasse(ISubject drukPascal, double factor, string eenheid, string naam)
         {
-            this.pascal = pascal;
-            this.Druk = pascal.Druk * factor;
-            this.Naam = naam;
-            this.Eenheid = eenheid;
-            this.Max = pascal.Max;
+            this.drukPascal = drukPascal;
+            this.factor = factor;
+            this.naam = naam;
+            this.eenheid = eenheid;
         }
+
+        public string Eenheid => eenheid;
+        public string Naam => naam;
 
         public double Druk
         {
             get
             {
-                return Druk;
+                return drukPascal.Druk / factor;
             }
             set
             {
-                Druk = Math.Max(0, Math.Min(value, Max));
+                drukPascal.Druk = value * factor;
+                Notify?.Invoke(Druk, Max); //notify if not null
             }
+        }
+
+        public double Max
+        {
+            get { return drukPascal.Max / factor; }
+        }
+
+        public void Add(CallBack method)
+        {
+            Notify += method;
         }
     }
 }
